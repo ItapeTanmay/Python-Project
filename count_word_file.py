@@ -12,4 +12,4 @@ for word in words:
 
 print("\nWord Frequency:")
 for word, count in freq.items():
-    print(word, ":", count)
+    print(word, ":", co
