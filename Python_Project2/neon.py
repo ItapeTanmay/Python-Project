@@ -18,6 +18,6 @@ while temp > 0:
 
 # Check whether the sum of digits is equal to the original number
 if sum_digits == num:
-    print(num, "is a Neon Number")
+    print(num, "is a Neon Number.")
 else:
-    print(num, "is not a Neon Number")
+    print(num, "is not a Neon Number.")
